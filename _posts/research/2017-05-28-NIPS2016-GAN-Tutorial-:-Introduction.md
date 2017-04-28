@@ -3,9 +3,15 @@ layout: post
 mathjax: true
 ---
 
+
 ### 摘要
 
-此内容是对Ian Goodfellow在NIPS2016上的Tutorial内容的整理与总结，主要包含有以下几个方面的内容：
+此内容是对Ian Goodfellow在NIPS2016上的Tutorial内容的整理与总结。 
+翻译内容是根据个人的理解， 建议直接阅读英文原版
+http://www.iangoodfellow.com/presentations.html
+
+
+主要包含有以下几个方面的内容：
 
 1. 为什么需要学习生成式建模
 2. 产生式模型是如何工作的，GAN与其他生成式模型的区别
