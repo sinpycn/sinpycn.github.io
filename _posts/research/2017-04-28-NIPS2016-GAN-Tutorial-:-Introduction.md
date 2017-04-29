@@ -1,4 +1,5 @@
 ---
+title: GAN Tutorial: Introduction
 layout: post
 mathjax: true
 ---
