@@ -1,5 +1,5 @@
 ---
-title: GAN Tutorial: Why study generative modeling?
+title: GAN Tutorial- Why study generative modeling?
 layout: post
 mathjax: true
 ---
