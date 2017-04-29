@@ -1,5 +1,5 @@
 ---
-title: GAN Tutorial: How do generative models work? How do GANs compare to others?
+title: GAN Tutorial- How do generative models work? How do GANs compare to others?
 layout: post
 mathjax: true
 ---
