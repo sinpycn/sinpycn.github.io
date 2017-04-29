@@ -33,4 +33,7 @@ mathjax: true
 
    5.1 单一图片超高分辨率： 这个任务是使用一个低分辨率图片产生高分辨率图片。 需要生成式模型是因为需要模型加入比原始输入图像更多的信息。 有很多的
 
-
+  ![Figure 4](/images/201704/28/fig04.png)
+  ![Figure 5](/images/201704/28/fig05.jpg)
+  ![Figure 6](/images/201704/28/fig06.jpg)
+  ![Figure 7](/images/201704/28/fig07.jpg)
