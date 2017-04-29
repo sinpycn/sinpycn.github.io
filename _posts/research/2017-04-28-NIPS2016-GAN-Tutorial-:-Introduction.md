@@ -7,7 +7,9 @@ mathjax: true
 ### 摘要
 
 > 此内容是对Ian Goodfellow在NIPS2016上的Tutorial内容的整理与总结。 
+
 > 翻译内容是根据个人的的理解， 可能与原文有偏差，欢迎反馈讨论
+
 > 建议直接阅读英文原版 http://www.iangoodfellow.com/presentations.html
 
 
