@@ -64,9 +64,15 @@ mathjax: true
 
 2.3.1 易处理的显式模型
 
+图9最左边的分支的模型是容易进行计算的显式密度模型。 这种模型有两种主要的方法： 完全可见信念网络（Fully visuible belief network） 和 非线性独立成分分析。
+
+Fully visible belief networks (FVBN)
+FVBN (Frey et al., 1996, Frey, 1998)模型通过使用概率链式规则来将一个$$n$$维的向量$$x$$的概率分布分解为一个一维的概率分布：
 
 ![Equation 5](/images/201704/28/eq05.jpg)
 
+FVBNs与GAN和变分autoencoder是当前三个最流行的生成式网络。
+他们构成了DeepMind的负责的生产模型的基础， 比如WaveNet（Oord et al. 2016）. WaveNet可以生成真实的人类语音。
 
 ![Figure 10](/images/201704/28/fig10.jpg)
 
