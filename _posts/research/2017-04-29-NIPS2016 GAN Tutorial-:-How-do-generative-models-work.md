@@ -66,17 +66,34 @@ mathjax: true
 
 图9最左边的分支的模型是容易进行计算的显式密度模型。 这种模型有两种主要的方法： 完全可见信念网络（Fully visuible belief network） 和 非线性独立成分分析。
 
-Fully visible belief networks (FVBN)
-FVBN (Frey et al., 1996, Frey, 1998)模型通过使用概率链式规则来将一个$$n$$维的向量$$x$$的概率分布分解为一个一维的概率分布：
+**完全可见信念网络 Fully visible belief networks (FVBN)**
+FVBN(Frey et al., 1996, Frey, 1998)模型通过使用概率的链式规则来将一个$$n$$维的向量$$x$$的概率分布分解为一个一维的概率分布：
 
 ![Equation 5](/images/201704/28/eq05.jpg)
 
-FVBNs与GAN和变分autoencoder是当前三个最流行的生成式网络。
-他们构成了DeepMind的负责的生产模型的基础， 比如WaveNet（Oord et al. 2016）. WaveNet可以生成真实的人类语音。
+FVBNs与GAN以及变分autoencoder是当前三个最流行的生成式网络。
+他们是DeepMind的复杂的生产模型的基础， 比如WaveNet（Oord et al. 2016）. WaveNet可以生成逼真的人的语音。
+FVBNs的主要缺点是每一次计算只能生成一个条目： 首先 $$x_1$$, 然后 $$x_2$$， 所以一个样本的生成复杂度为 $$O(n)$$。 最新的FVBN，比如WavNet， 每一个$$x_i$$的分布都使用DNN计算， 所以每一个$$n$$步生成都意味着很大的计算量。
+并且，这些步骤是不能并行计算的。 WaveNet计算1秒的语音需要两分钟的计算， 所以还不能被用于实际的交互对话系统中。 GAN被设计为能够并行的生成$$x$$， 有很高的生成速度。
+
+
+
+
+
+
+**非线性独立成分分析**
+另一种显式密度模型的深度网络是基于一个对两个不同空间的连续的， 非线性转换。 
+比如， 如果有一个隐变量 $$z$$向量和一个连续的， 可微的， 可逆的转换矩阵$$g$$, 使得$$g(z)$$产生样本使用$$x$$空间的模型， 所以可以描述为：
+
+![Equation 6](/images/201704/28/eq06.jpg)
+
+如果$$p_z$$是易计算的并且雅可比行列式$$g^{-1}$$也是易计算的，那么密度$$p_x$$也是易计算的。 换句话说， 
+
+
 
 ![Figure 10](/images/201704/28/fig10.jpg)
 
-![Equation 6](/images/201704/28/eq06.jpg)
+
 
 2.3.2 显式模型需要近似
 
