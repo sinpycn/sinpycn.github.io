@@ -1,5 +1,5 @@
 ---
-title: GAN Tutorial - How do GANs work?
+title: GAN介绍 - GAN是如何工作的?
 layout: post
 mathjax: true
 ---
