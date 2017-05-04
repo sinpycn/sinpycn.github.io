@@ -1,5 +1,5 @@
 ---
-title: GAN Tutorial - Why study generative modeling?
+title: GAN介绍 - 为什么学习生成式模型?
 layout: post
 mathjax: true
 ---
