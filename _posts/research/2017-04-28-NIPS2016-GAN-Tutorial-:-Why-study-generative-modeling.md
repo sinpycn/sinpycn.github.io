@@ -2,6 +2,7 @@
 title: GAN介绍 - 为什么学习生成式模型?
 layout: post
 mathjax: true
+categories: [research, gan-tutorial]
 ---
 
 人们可能会问为什么要学习生成式模型， 特别是当生成式模型只用来产生数据而不提供对密度函数的估计情况。 
