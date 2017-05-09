@@ -5,9 +5,12 @@ layout: default
 <div class="home">
 
     
-  <h3>Recommendation</h3>
-  <a href="/category/gan-tutorial.html" style="text-decoration: none;">NIPS2016 GAN Tutorial (中文翻译)</a><br />
-  <p />
+  <h1>Recommendation</h1>
+  <ul class="post-list">
+    <li>
+      <h2><a href="/category/gan-tutorial.html" style="text-decoration: none;">NIPS2016 GAN Tutorial (中文翻译)</a></h2>
+    </li>
+  </ul>
   
   
   <h1 class="page-heading">Posts</h1>
@@ -19,7 +22,6 @@ layout: default
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
