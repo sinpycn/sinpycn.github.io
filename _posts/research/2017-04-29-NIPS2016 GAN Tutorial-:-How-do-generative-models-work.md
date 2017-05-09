@@ -2,6 +2,7 @@
 title: GAN介绍 - 生成式模型是如何工作的， GAN与其他模型的对比
 layout: post
 mathjax: true
+categories: [research, gan-tutorial]
 ---
 
 [制作中.........]
