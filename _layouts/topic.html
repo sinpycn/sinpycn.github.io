@@ -2,7 +2,6 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-
 {% unless page.content == '' %}
   <p>{{ page.content }}</p>
 {% endunless %}
@@ -14,14 +13,9 @@ layout: default
 {% for post in site.categories.[page.category] %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            
+        <h3 class="post-title">            
             {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
         </h3>
-        {% endif %}
     </a>
     <p class="post-meta">
       Posted by 
