@@ -4,6 +4,7 @@ layout: post
 mathjax: true
 ---
 
+[特别感谢Goodfellow先生对此翻译的支持]
 
 ### 摘要
 
