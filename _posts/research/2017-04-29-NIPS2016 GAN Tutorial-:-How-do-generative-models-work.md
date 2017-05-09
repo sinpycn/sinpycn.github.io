@@ -1,5 +1,5 @@
 ---
-title: GAN介绍 - 生成式模型是如何工作的， GAN与其他模型的对比
+title: GAN介绍 - 生成式模型是如何工作的? GAN与其他模型有什么区别？
 layout: post
 mathjax: true
 categories: [research, gan-tutorial]
