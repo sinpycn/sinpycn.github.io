@@ -2,6 +2,7 @@
 title: GAN介绍 - GAN是如何工作的?
 layout: post
 mathjax: true
+categories: [research, gan-tutorial]
 ---
 
 [制作中]
