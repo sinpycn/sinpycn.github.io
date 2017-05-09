@@ -10,7 +10,7 @@ layout: default
   <p>No posts in this category at this time.</p>
 {% endunless %}
 
-{% for post in site.categories.[page.category] %}
+{% for post in site.categories.[page.category] reversed %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2>            
