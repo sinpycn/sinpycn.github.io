@@ -2,7 +2,9 @@
 title: GAN介绍 - 介绍
 layout: post
 mathjax: true
-category: GAN-Tutorial
+category:
+  -research
+  -gan-tutorial
 ---
 
 [特别感谢Goodfellow先生对此翻译的支持]
