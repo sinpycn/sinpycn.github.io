@@ -7,6 +7,4 @@ categories: [research, gan-tutorial]
 
 [制作中]
 
-相关的研究课题
-
 GAN是一个相对新的方法， 还有很多的待解决的研究方向。
