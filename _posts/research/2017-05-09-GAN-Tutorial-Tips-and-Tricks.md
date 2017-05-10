@@ -82,3 +82,4 @@ Reference batch normalization（参考批量标准化）包含运行网络两次
 不管是Reference batch normalization还是虚拟的batch normalizaiton都有一个特性，也就是，在训练过程的minibatch的所有样本（真实的样本，以及所有的由生成器产生的样本（除了那些定义参考batch的样本））都是被相互独立的处理， 并且是独立且同分布(i.i.d: Independent and identically distributed)。
 
 ### 4.4 可以平衡G和D吗？
+
