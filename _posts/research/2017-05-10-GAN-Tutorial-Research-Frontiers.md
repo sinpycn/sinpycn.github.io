@@ -1,4 +1,11 @@
+---
+title: GAN介绍 - 相关研究课题
+layout: post
+mathjax: true
+categories: [research, gan-tutorial]
+---
 
+[制作中]
 
 相关的研究课题
 
