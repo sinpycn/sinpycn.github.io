@@ -46,27 +46,76 @@ GAN面对的最大的需要研究者来尝试解决的问题是不收敛问题�
 相对于收敛到一个分布包含所有的训练数据的模式， 生成器仅仅在一个时间点生成其中的一个模式， 在不同的模式间切换，随着判别器学习拒绝其中一个。 
 此图片来自 Metz et al. (2016).
 
+模式塌陷的发生的可能是因为GAN使用最大最小（maximin）优化与使用minimax不同。 当我们寻找模型使用
+
 ![Equation 16](/images/201705/10/eq16.jpg)
+
+$$G^{*}$$生成样本根据数据分布。 当我们将min和max的顺序颠倒以后我们发现
 
 ![Equation 17](/images/201705/10/eq17.jpg)
 
+对应生成器的最小化位于优化过程的内循环中。 
+生成器将映射每一个z到一个x上， 对应判别器判定为真而不是假的可信度。
+同时同步梯度的角度看min max并没有比max min更有优势， 反之亦然。
+
+正如3.2.6章讨论的， 模式塌陷不像是被任何特别的损失函数引起的。
+**通常的主张是，模式塌陷是因为使用Jensen-Shannon散度引起的， 但是这好像不是我们这里讨论的情况， 因为GAN近似最小化$$D_{KL}(p_{data}||p_{model})$$面临同样的问题， 并且生成器也会塌陷当比Jensen-Shannon散度要求的模式少的时候。**
+
+因为模式塌陷问题， GAN的应用经常限定到那些模型产生比较少不同的输出的问题。
+只要GAN能够找到那些可以被接受的少量的输出，那么它就是有用的。
+一个例子是text-to-image生成任务， 在这种任务中，输入时一个图像的描述，输出是一个符合此描述的图像。
+参考图23对此种任务的描述。
+一个很新的一个工作， Reed et al. (2016a)展示了针对此类任务， 其他的模型比GAN有更高的输出多样性（图24）， 但是StachGAN(Zhang et al., 2016)展示了比以前的基于GAN的方法也有更高的输出多样性（图25）.
+
 ![Figure 23](/images/201705/10/fig23.jpg)
+
+图23： 使用GAN来做Text-to-image生成任务。 图像来自Reed et al.(2016b)
 
 ![Figure 24](/images/201705/10/fig24.jpg)
 
+图24： 由于模式塌陷问题，对text-to-image任务，GAN有较差的输出多样性。 图片来自Reed et al. (2016a）。
+
 ![Figure 25](/images/201705/10/fig25.jpg)
+
+图25： 比其他的基于GAN的text-to-image模型，StackGAN能够有更高的输出多样性。 图片来自Zhang et al. (2016)。
+
+模式塌陷问题很可能是GAN最重要的问题需要研究者去解决。
+
+其他的尝试是minibatch feature (Salimans et al., 2016)。 minibatch features基本的思路是允许判别器比较一个样本与一个minibatch的生成样本和一个minibatch的真实样本。
+通过测度与这些潜在空间的其他样本距离， 判别器可以判定是否一个样本显著的与其他生成样本相似。
+Minibatch features工作的很好。 
+强烈建议直接复制与那些与相关介绍文章一起发布的Theano/TensorFlow代码， 因为一些小的特征定义的改动会导致很大的性能的下降。
+
+Minibatch GAN在CIFAR-10上训练可以得到很好的结果， 多数的样本被识别为CIFAR-10的特定的类（图26）。 
+当在128x128 ImageNet上训练时， 很少的样本被识别为属于ImageNet的具体的类（图27）。
+图28展示了一些被精选出来的较好的图片。
 
 ![Figure 26](/images/201705/10/fig26.jpg)
 
+图26：Minibatch GAN在CIFAR-10上训练可以得到很好的结果， 多数的样本被识别为CIFAR-10的特定的类（注释： 模型使用Label训练，也就是使用了条件式GAN）
+
 ![Figure 27](/images/201705/10/fig27.jpg)
+
+图27： Minibatch GAN在128x128 ImageNet使用Label来训练产生图像， 有时会被识别为ImageNet的具体的类。
 
 ![Figure 28](/images/201705/10/fig28.jpg)
 
+图28： Minibatch GAN在128x128 ImageNet上有时可能产生很好的样本， 这里的图片都是被精心挑选的。
+
+Minibatch GAN很大程度上是为了减少模式塌陷问题而不是其他问题， 比如计数，预测的困难， 全局结构成为最显著的问题（图29， 30， 31）。
+很多这些问题应该可以被解决通过设计更好的模型架构。
+
 ![Figure 29](/images/201705/10/fig29.jpg)
+
+图29： 在128x128 ImageNet 上GAN好像有counting问题，经常产生的动物有错误数量的身体部位。
 
 ![Figure 30](/images/201705/10/fig30.jpg)
 
+图30： 在128x128 ImageNet 上GAN在三维预测思路上有问题， 经常产生的物体太胖或者在一个轴上被
+
 ![Figure 31](/images/201705/10/fig31.jpg)
+
+
 
 ![Figure 32](/images/201705/10/fig32.jpg)
 
