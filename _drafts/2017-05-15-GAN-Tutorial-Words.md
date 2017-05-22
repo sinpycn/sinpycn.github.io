@@ -34,4 +34,14 @@ mode collapse的定义到底是指什么？
 
 reward function 回报函数
 
+极小极大（Minimax
+启发式（Heuristic）， 非饱和游戏（non-saturating game）
+置信 confidence
+最大似然游戏（Maximum likelihood game）
+
+Mode 
+众数（mode）指一组数据中出现次数最多的数据值。
+Most frequent value in a data set
+The mode is the value that appears most often in a set of data.
+
 
