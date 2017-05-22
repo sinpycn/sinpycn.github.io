@@ -197,11 +197,11 @@ GAN产生锐化图像的原因还没有完全的明确。
 
 ## 3.3 DCGAN结构
 
-今天多数的GAN很多都基于DCGAN的结构 （Radford et al., 2015）。
-DCGAN基于“深度，卷积GAN”， 尽管在DCGAN以前，GAN也使用深度并且卷积网络的， DCGAN的用途是指这个特别的样式的结构。
+当前多数的GAN都基于DCGAN的结构 （Radford et al., 2015）。
+DCGAN是“深度，卷积GAN”， 尽管在DCGAN以前，GAN也是使用深度和卷积网络的， DCGAN被用来指这个特定的结构。
 DCGAN结构的一些主要的观点有：
 
-* 在判别器和生成器的多数层中都使用Batch标准化(Ioffe and Szegedy, 2015)， 判别器的两个minibatch被粉笔的标准化。 生成器的最后层和第一层没有被标准化， 因此模型可以学习正确的平均，以及对数据分布的调整比例。 看图17.
+* 在判别器和生成器的多数层中都使用Batch normalization(Ioffe and Szegedy, 2015)， 判别器的两个minibatch被分别的标准化。 生成器的最后层和第一层没有被标准化， 因此模型可以学习正确的平均，以及对数据分布的调整比例。 看图17.
 * 整体网络结构借鉴了（Springenberg et al., 2015）。 这个结构即包含pooling 也包含unpooling层。 当生成器需要提高空间维度时， 它使用转置卷积，使用stride大于1.
 * 使用Ada优化器，而不是SGD和冲量。
 
