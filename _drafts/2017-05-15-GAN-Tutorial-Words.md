@@ -58,4 +58,12 @@ Mode
 Most frequent value in a data set
 The mode is the value that appears most often in a set of data.
 
+Laplacian pyramid 金字塔
 
+Noise-contrastive estimation（NCE）
+
+
+注1：
+模式塌陷（mode collapse）：图14中数据分布属于模式塌陷问题。
+
+Langevin采样
