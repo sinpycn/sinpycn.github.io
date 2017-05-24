@@ -222,8 +222,6 @@ DCGAN也清晰的展示了， GAN可以学习通过有意义的方式来使用�
 生成模型可以正确的解码所有的能被识别为属于正确的类的图像向量表达。 
 此图片来自Radford et al. (2015).
 
-【制作中】
-
 ## 3.4 GAN与NCE和最大似然的关系
 
 当我们试图去理解GAN是如何工作的， 我们可能想知道他与noise-contrastive estimation（NCE）的联系 （Gutmann and Hyvarinen, 2010）。
