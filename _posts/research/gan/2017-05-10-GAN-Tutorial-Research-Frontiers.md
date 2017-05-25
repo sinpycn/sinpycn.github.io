@@ -197,6 +197,6 @@ InfoGANs (Chen et al., 2016a)通过来标准化code向量中的一些输入，�
 
 研究者已经确认了GAN与actor-critic方法（Pfau and Vinyals, 2016）， 反转的增强学习（Finn et al., 2016a）的联系。 并且将GAN应用到了模仿学习中（Imitation Learning， Ho and Ermon, 2016）。 这些与增强学习的联系将会继续推动GAN和增强学习的发展。
 
-
+[最后修改日期： 2017年5月25日]
 
 
