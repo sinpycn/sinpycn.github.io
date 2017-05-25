@@ -67,3 +67,7 @@ Noise-contrastive estimation（NCE）
 模式塌陷（mode collapse）：图14中数据分布属于模式塌陷问题。
 
 Langevin采样
+
+Donahue et al. (2016)展示了如何训练一个确定性的encoder
+
+GAN与actor-critic方法（Pfau and Vinyals, 2016）， 反转的增强学习（Finn et al., 2016a）的联系
