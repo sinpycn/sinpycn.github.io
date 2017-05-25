@@ -1,5 +1,5 @@
 ---
-title: GAN介绍 - 练习题答案
+title: GAN介绍 - 练习题答案 [制作中]
 layout: post
 mathjax: true
 categories: [research, gan-tutorial]
