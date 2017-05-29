@@ -71,3 +71,9 @@ Langevin采样
 Donahue et al. (2016)展示了如何训练一个确定性的encoder
 
 GAN与actor-critic方法（Pfau and Vinyals, 2016）， 反转的增强学习（Finn et al., 2016a）的联系
+
+
+1. 分布函数与密度函数的关系
+2. 为什么是零和游戏
+3. game翻译成博弈论
+4. 
