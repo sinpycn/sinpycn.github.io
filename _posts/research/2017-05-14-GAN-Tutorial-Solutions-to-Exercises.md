@@ -84,17 +84,17 @@ categories: [research, gan-tutorial]
 
 我们希望找到一个函数f, f的期望梯度是
 
-![Equation 32](/images/201705/10/fig32.jpg)
+![Equation 32](/images/201705/10/eq32.jpg)
 
 我们希望f的期望梯度等于$$D_{KL}(p_{data}||p_g)$$的期望梯度。
 
 首先对KL散度对$$/theta$$求导，
 
-![Equation 33](/images/201705/10/fig33.jpg)
+![Equation 33](/images/201705/10/eq33.jpg)
 
 现在我们希望找到f使方程式32的导数与33的导数一致。
 对32求导，
-![Equation 34](/images/201705/10/fig34.jpg)
+![Equation 34](/images/201705/10/eq34.jpg)
 
 为了得到此结果，我们做两个假设：
 1. 假设$$p_g(x) \geq 0$$在全局成立， 那么我们可以使用等式$$p_g(x)=exp(log p_g(x))$$.
