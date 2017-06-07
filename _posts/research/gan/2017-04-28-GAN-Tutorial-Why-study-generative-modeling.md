@@ -1,5 +1,5 @@
 ---
-title: GAN介绍 - 第一章： 为什么学习生成式模型?
+title: GAN介绍 - 1.为什么学习生成式模型?
 layout: post
 mathjax: true
 categories: [research, gan-tutorial]
