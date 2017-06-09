@@ -29,6 +29,12 @@ inverse refinforcement learning (???)
 
 启发式（Heuristic）， 非饱和游戏（non-saturating game）
 
+注： 
+1. 可微函数： 在微积分学中，可微函数是指那些在定义域中所有点都存在导数的函数。
+
+将图片分辨率提高，重新抓图
+
+
 ## 相关内容
 
 翻译以下内容：
