@@ -89,7 +89,7 @@ categories: [research, gan-tutorial]
 
 ![Equation 32](/images/201705/10/eq32.jpg)
 
-我们希望$$f$$的期望梯度等于$$D_{KL}(p_{data}||p_{g})$$的期望梯度。
+我们希望$$f$$的期望梯度等于$$D_{KL}(p_{data} \parallel p_{g})$$的期望梯度。
 
 首先将KL散度对$$\theta$$求导，
 
