@@ -5,7 +5,7 @@ title: About
 permalink: /about/
 ---
 
-For more information, please access my personal page.
+For more information, please access my personal web page.
 
 http://ast-astrec.nict.go.jp/member/peng-shen/index.html
 
