@@ -5,10 +5,6 @@ title: About
 permalink: /about/
 ---
 
-For more information, please access my personal web page.
+For more information, please access <a href="http://ast-astrec.nict.go.jp/member/peng-shen/index.html">my personal web pageT</a>.
 
-http://ast-astrec.nict.go.jp/member/peng-shen/index.html
-
-E-mail:
-
-peng．shen AT nict．go．jp
+peng.shen AT nict.go.jp
