@@ -1,0 +1,7 @@
+@InProceedings{shen_2017_Interspeech,
+author = {Peng Shen, Xugang Lu, Sheng Li, Hisashi Kawai},
+title = {Conditional Generative Adversarial Nets Classifier for Spoken Language Identification},
+booktitle = {The Annual Conference of the International Speech Communication Association (Interspeech)},
+month = {August},
+year = {2017}
+}
