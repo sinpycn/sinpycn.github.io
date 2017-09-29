@@ -45,6 +45,8 @@ Word embedding通常表达为一个固定维数的向量，比如200-1000维。 
 
 Word2Vec通过关注文中的单词是否可以交换来学习单词与单词之间的关系。
 
+![CBow and Skip-ngram](/images/201709/word2vec_diagrams.png)
+
 #### CBoW （Continuous Bag-of-Words）
 
 CBoW通过使用前后k个单词，来预测当前的对象单词来学习。
