@@ -52,7 +52,6 @@ Word2Vec通过关注文中的单词是否可以交换来学习单词与单词之
 CBoW通过使用前后k个单词，来预测当前的对象单词来学习。
 
 
-
 ### Continuous Skip-gram
 
 Skip-gram使用当前的单词来预测前后k个单词。
@@ -72,7 +71,18 @@ Skip-gram方法对低频词效果更好。
 
 ### Word2Vec弱点
 
+Word2vec不能很好的表达反义词。
+例如：
 
+我喜欢在外面吃饭
+
+我讨厌在外面吃饭
+
+当要开发的功能对反义词有很重要的依赖时， 需要谨慎使用Word2vec。
+
+### 使用Google pre-trained word2vec model
+
+https://code.google.com/archive/p/word2vec/
 
 
 ## 3. Doc2Vec
