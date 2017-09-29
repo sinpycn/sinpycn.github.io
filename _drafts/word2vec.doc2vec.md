@@ -18,7 +18,9 @@ I, have, a, pen, an, apple
 
 Bag-of-words的优点： 简单易懂， 计算效率高。
 Bag-of-words的缺点：
+
   a. 没有考虑单词的出现顺序， 只要使用了相同的单词，那么表达出来的向量就是一样的。
+  
   b. 不能表达语义，比如，programming， python， plane 三个单词的距离是一样的。 （按语义理解，programming和python应该是相近的）
 
 # Word2Vec
