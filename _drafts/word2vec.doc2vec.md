@@ -40,8 +40,35 @@ Word embedding方法解决了以上的几种缺陷，它支持更复杂的表达
 
 Word embedding通常表达为一个固定维数的向量，比如200-1000维。 它不是简单的将单词映射为向量，而是通过复杂的演算来对单词进行编码。
 
+
+### Word2Vec机制
+
+Word2Vec通过关注文中的单词是否可以交换来学习单词与单词之间的关系。
+
+#### CBoW （Continuous Bag-of-Words）
+
+CBoW通过使用前后k个单词，来预测当前的对象单词来学习。
+
+
+
+#### Continuous Skip-gram
+
+Skip-gram使用当前的单词来预测前后k个单词。
+此方法在训练数据比较少的情况下，也可以有比较好的精度。
+Skip-gram方法对低频词效果更好。
+
+
 ### Word2Vec的加减运算
 
+可以进行加减运算
+比如可以进行以下运算：
+
+国王 - 男 + 女 = 女王
+
+巴黎 - 法国 + 日本 = 东京
+
+
+### Word2Vec弱点
 
 
 
@@ -49,7 +76,7 @@ Word embedding通常表达为一个固定维数的向量，比如200-1000维。 
 
 
 
-
+### 参考文献：
 
 https://github.com/jhlau/doc2vec#model-hyper-parameter-explanation
 
@@ -57,11 +84,8 @@ http://www.davidsbatista.net/blog/2017/04/01/document_classification/
 
 https://groups.google.com/forum/#!topic/gensim/bEskaT45fXQ
 
-
 https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
 
-
 https://deepage.net/machine_learning/2017/01/08/doc2vec.html
 
 
-https://deepage.net/machine_learning/2017/01/08/doc2vec.html
