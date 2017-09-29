@@ -8,7 +8,7 @@
 3. Doc2Vec
 
 
-### Bag-of-words
+## Bag-of-words
 Bag-of-words是对句子中单词的出现次数的向量表示。 比如说
 {I, have, a, pen, I, have, an, apple}
 通过使用Bag-of-words向量表示时， 单词的顺序为： 
@@ -24,9 +24,9 @@ Bag-of-words的缺点：
 
   b. 不能表达语义，比如，programming， python， plane 三个单词的距离是一样的。 （按语义理解，programming和python应该是相近的）
 
-### Word2Vec
+## Word2Vec
 
-#### Word2Vec是什么
+### Word2Vec是什么
 Word2Vec是单词的向量表示方法，对单词的表示，常见的是使用one-hot向量的方法。 
 与one-hot vector相比Word2Vec可以表达单词的语义，以及其文法， 经过word2vec表示的单词，不在是一个单独的词，而是包含了上下文统计信息的一种向量表达。
 
@@ -41,26 +41,26 @@ Word embedding方法解决了以上的几种缺陷，它支持更复杂的表达
 Word embedding通常表达为一个固定维数的向量，比如200-1000维。 它不是简单的将单词映射为向量，而是通过复杂的演算来对单词进行编码。
 
 
-### Word2Vec机制
+## Word2Vec机制
 
 Word2Vec通过关注文中的单词是否可以交换来学习单词与单词之间的关系。
 
 ![CBow and Skip-ngram](/images/201709/word2vec_diagrams.png)
 
-#### CBoW （Continuous Bag-of-Words）
+### CBoW （Continuous Bag-of-Words）
 
 CBoW通过使用前后k个单词，来预测当前的对象单词来学习。
 
 
 
-#### Continuous Skip-gram
+### Continuous Skip-gram
 
 Skip-gram使用当前的单词来预测前后k个单词。
 此方法在训练数据比较少的情况下，也可以有比较好的精度。
 Skip-gram方法对低频词效果更好。
 
 
-### Word2Vec的加减运算
+## Word2Vec的加减运算
 
 可以进行加减运算
 比如可以进行以下运算：
@@ -70,7 +70,7 @@ Skip-gram方法对低频词效果更好。
 巴黎 - 法国 + 日本 = 东京
 
 
-### Word2Vec弱点
+## Word2Vec弱点
 
 
 
@@ -78,7 +78,7 @@ Skip-gram方法对低频词效果更好。
 
 
 
-### 参考文献：
+## 参考文献：
 
 https://github.com/jhlau/doc2vec#model-hyper-parameter-explanation
 
