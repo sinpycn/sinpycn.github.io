@@ -8,7 +8,7 @@
 3. Doc2Vec
 
 
-## Bag-of-words
+## 1. Bag-of-words
 Bag-of-words是对句子中单词的出现次数的向量表示。 比如说
 {I, have, a, pen, I, have, an, apple}
 通过使用Bag-of-words向量表示时， 单词的顺序为： 
@@ -24,7 +24,7 @@ Bag-of-words的缺点：
 
   b. 不能表达语义，比如，programming， python， plane 三个单词的距离是一样的。 （按语义理解，programming和python应该是相近的）
 
-## Word2Vec
+## 2. Word2Vec
 
 ### Word2Vec是什么
 Word2Vec是单词的向量表示方法，对单词的表示，常见的是使用one-hot向量的方法。 
@@ -41,7 +41,7 @@ Word embedding方法解决了以上的几种缺陷，它支持更复杂的表达
 Word embedding通常表达为一个固定维数的向量，比如200-1000维。 它不是简单的将单词映射为向量，而是通过复杂的演算来对单词进行编码。
 
 
-## Word2Vec机制
+### Word2Vec机制
 
 Word2Vec通过关注文中的单词是否可以交换来学习单词与单词之间的关系。
 
@@ -60,7 +60,7 @@ Skip-gram使用当前的单词来预测前后k个单词。
 Skip-gram方法对低频词效果更好。
 
 
-## Word2Vec的加减运算
+### Word2Vec的加减运算
 
 可以进行加减运算
 比如可以进行以下运算：
@@ -70,8 +70,12 @@ Skip-gram方法对低频词效果更好。
 巴黎 - 法国 + 日本 = 东京
 
 
-## Word2Vec弱点
+### Word2Vec弱点
 
+
+
+
+## 3. Doc2Vec
 
 
 
