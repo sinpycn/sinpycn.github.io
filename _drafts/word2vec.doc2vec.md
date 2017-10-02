@@ -78,6 +78,8 @@ Word2vec不能很好的表达反义词。
 
 我讨厌在外面吃饭
 
+通过这两个句子表达出来的[喜欢]与[讨厌]是没有区别的。
+
 当要开发的功能对反义词有很重要的依赖时， 需要谨慎使用Word2vec。
 
 ### 使用Google pre-trained word2vec model
@@ -86,8 +88,6 @@ https://code.google.com/archive/p/word2vec/
 
 
 ## 3. Doc2Vec
-
-
 
 
 
