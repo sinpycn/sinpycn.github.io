@@ -110,14 +110,34 @@ DBoW使用Paragraph ID来预测句子。 由于此方法与Bag-of-words类似没
 此方法简单，省内存，计算效率高， 但是精度上没有dmpv方法好。
 
 
+### Doc2Vec参数优化
+
+文章[3]中介绍了一些高效训练Doc2Vec的方法。
+
+下表中给出针对不同任务的最优参数设置。 
+![Doc2Vec Parameters](/images/201709/doc2vec_para.png)
+
+Task： 
+Vector size： Word2Vec的维数。
+Window size: 单词前后的单词数
+Min Count: 单词出现次数小于此值被忽略
+Sub sampling: 
+Negative Sample: 
+
+学习率learning rate从0.25开始线性递减到0.0001。
+
+### 相关工具
+gensim
+
 
 ### Others
 LDA
 TF-IDF
 
 ## Related Paper
-[2] Document Embedding with Paragraph Vectors
-[3] Distributed Representations of Sentences and Documents
+[1] Document Embedding with Paragraph Vectors
+[2] Distributed Representations of Sentences and Documents
+[3] An Empirical Evaluation of doc2vec with Practical Insights into Document Embedding Generation
 
 ## 参考文献：
 
