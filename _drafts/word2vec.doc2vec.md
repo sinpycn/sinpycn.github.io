@@ -115,6 +115,10 @@ DBoW使用Paragraph ID来预测句子。 由于此方法与Bag-of-words类似没
 文章[3]中介绍了一些高效训练Doc2Vec的方法。
 
 下表中给出针对不同任务的最优参数设置。 
+
+    Q-Dup是使用StackExchange的数据，用来检测重复问题
+    Semantic Textual Similarity (STS)预测句子相似度任务。范围：0~5
+
 ![Doc2Vec Parameters](/images/201709/doc2vec_para.png)
 
 Task： 
