@@ -141,7 +141,9 @@ TF-IDF
 
 ## Related Paper
 [1] Document Embedding with Paragraph Vectors
+
 [2] Distributed Representations of Sentences and Documents
+
 [3] An Empirical Evaluation of doc2vec with Practical Insights into Document Embedding Generation
 
 ## 参考文献：
