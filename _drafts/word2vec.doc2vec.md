@@ -6,6 +6,7 @@
 1. Bag-of-words
 2. Word2Vec
 3. Doc2Vec
+4. TF-IDF
 
 
 
@@ -135,13 +136,24 @@ Negative Sample:
 
 学习率learning rate从0.25开始线性递减到0.0001。
 
+### 4. TF-IDF
+
+TF-IDF（term frequency–inverse document frequency）是一种用于信息检索与数据挖掘的常用加权技术。TF意思是词频(Term Frequency)，IDF意思是逆向文件频率(Inverse Document Frequency)。
+
+TFIDF的主要思想是：如果词w在一篇文档d中出现的频率高，并且在其他文档中很少出现，则认为词w具有很好的区分能力，适合用来把文章d和其他文章区分开来。TFIDF实际上是：TF * IDF，TF词频(Term Frequency)，IDF逆向文件频率(Inverse Document Frequency)。
+
+TF-IDF计算方法：
+![TF-TDF](/images/201709/tf-idf.png)
+
+TF-IDF值越大，则此单词的区分能力越强。
+
 ### 相关工具
 gensim
 
 
 ### Others
 LDA
-TF-IDF
+
 
 ## Related Paper
 [1] Document Embedding with Paragraph Vectors
@@ -161,5 +173,8 @@ https://groups.google.com/forum/#!topic/gensim/bEskaT45fXQ
 https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
 
 https://deepage.net/machine_learning/2017/01/08/doc2vec.html
+
+http://www.ruanyifeng.com/blog/2013/03/tf-idf.html
+
 
 
