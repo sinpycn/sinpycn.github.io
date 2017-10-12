@@ -93,11 +93,31 @@ https://code.google.com/archive/p/word2vec/
 
 ## 3. Doc2Vec
 
+与Word2Vec类似，Doc2Vec也有两种计算方式，dmpv（Distributed memory paragraph vector）和DBow(Distributed Bag of Words)。
+DBoW是一种考虑单词的顺序的简洁的模型， 其计算效率高效。
+dmpv比DBoW更复杂，有更多的参数。
+
+### dmpv（Distributed memory paragraph vector）
+![Distributed memory paragraph vector](/images/201709/doc2vec_1.png)
+
+dmpv是基于word2vec的CBoW的方法改进而来。 dmpv增加了Paragraph ID， 通过使用前后的单词来预测对象单词。
+
+### DBow(Distributed Bag of Words)
+![Distributed Bag of Words](/images/201709/doc2vec_2.png)
+
+DBoW与Skip-gram方法相似，Skip-gram使用对象单词来预测前后的单词。
+DBoW使用Paragraph ID来预测句子。 由于此方法与Bag-of-words类似没有考虑单词前后顺序， 所以被命名为Distributed Bag of Words。
+此方法简单，省内存，计算效率高， 但是精度上没有dmpv方法好。
+
+
 
 ### Others
 LDA
 TF-IDF
 
+## Related Paper
+[2] Document Embedding with Paragraph Vectors
+[3] Distributed Representations of Sentences and Documents
 
 ## 参考文献：
 
