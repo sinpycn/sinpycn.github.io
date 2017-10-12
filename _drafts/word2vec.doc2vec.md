@@ -143,6 +143,7 @@ TF-IDF（term frequency–inverse document frequency）是一种用于信息检�
 TFIDF的主要思想是：如果词w在一篇文档d中出现的频率高，并且在其他文档中很少出现，则认为词w具有很好的区分能力，适合用来把文章d和其他文章区分开来。TFIDF实际上是：TF * IDF，TF词频(Term Frequency)，IDF逆向文件频率(Inverse Document Frequency)。
 
 TF-IDF计算方法：
+
 ![TF-TDF](/images/201709/tf-idf.png)
 
 TF-IDF值越大，则此单词的区分能力越强。
