@@ -118,10 +118,15 @@ DBoW使用Paragraph ID来预测句子。 由于此方法与Bag-of-words类似没
 ![Doc2Vec Parameters](/images/201709/doc2vec_para.png)
 
 Task： 
-Vector size： Word2Vec的维数。
+
+Vector size： Word2Vec的维数
+
 Window size: 单词前后的单词数
+
 Min Count: 单词出现次数小于此值被忽略
+
 Sub sampling: 
+
 Negative Sample: 
 
 学习率learning rate从0.25开始线性递减到0.0001。
