@@ -8,6 +8,8 @@
 3. Doc2Vec
 
 
+
+
 ## 1. Bag-of-words
 Bag-of-words是对句子中单词的出现次数的向量表示。 比如说
 {I, have, a, pen, I, have, an, apple}
@@ -90,6 +92,9 @@ https://code.google.com/archive/p/word2vec/
 ## 3. Doc2Vec
 
 
+### Others
+LDA
+TF-IDF
 
 
 ## 参考文献：
