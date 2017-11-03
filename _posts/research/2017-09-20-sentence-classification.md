@@ -1,5 +1,11 @@
+---
+title: Sentence Classification
+layout: post
+mathjax: true
+categories: [research, cn]
+---
 
-# Sentence Classification and Understanding
+# Sentence Classification
 
 针对句子的分类，理解的处理是自然语言处理领域中很重要的研究领域。
 这里将介绍以下几种句子的分类方法：
@@ -7,7 +13,6 @@
 2. Word2Vec
 3. Doc2Vec
 4. TF-IDF
-
 
 
 
