@@ -9,7 +9,7 @@ I am a researcher at NICT, Kyoto, Japan, on automatic speech recognition, deep l
 
 Research interest: Automatic speech recognition, signal processing, and machine learning (deep learning) related to image processing, data analysis and natural language processing.
 
-For more information, please access <a href="http://ast-astrec.nict.go.jp/member/peng-shen/index.html">my personal web page</a>.
+For more information, please access <a href="http://ast-astrec.nict.go.jp/aboutus/member/peng-shen/index.html">my personal web page</a>.
 
 peng.shen AT nict.go.jp
 
