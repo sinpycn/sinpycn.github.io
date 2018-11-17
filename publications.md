@@ -5,7 +5,7 @@ title: Publications
 permalink: /publications/
 ---
 <div class="home">
-  <h1 class="post-title"><b>Publications</b></h1>
+  <h1 class="post-title">Publications</h1>
   <ul class="post-list">
       <h4><b>Journals (Peer reviewed)</b></h4>
       <p>
