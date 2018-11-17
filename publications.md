@@ -5,11 +5,9 @@ title: Publications
 permalink: /publications/
 ---
 <div class="home">
-
   <h1 class="page-heading"><b>Publications</b></h1>
   <ul class="post-list">
-    <li>
-      <h4><b>Journals (Peer reviewed)</b></h4>
+      <h4><b>Journals</b></h4>
       <p>
         <li>
           Regularization of neural network model with distance metric learning for i-vector based spoken language identification <br>
@@ -22,8 +20,7 @@ permalink: /publications/
 					<u><b>Peng Shen</b></u>, Xugang Lu, Xinhui Hu, Naoyuki Kanda, Masahiro Saiko, Chiori Hori, Hisashi Kawai<br>
 					In Speech Communication, vol.82, pp. 1-13, Sep, 2016.<br>
 			  </li>
-					
-					
+        
         <li>
 					Multi-Stream Sparse Representation Features for Noise Robust Audio-Visual Speech Recognition<br>
 					<u><b>Peng Shen</b></u>, Satoshi Tamura and Satoru Hayamizu<br>
@@ -39,7 +36,6 @@ permalink: /publications/
 					In Proc. ASRU, Okinawa, Japan, 16-20, Dec. 2017.<br>
 				</li>					
 					
-					
         <li>
 					Conditional Generative Adversarial Nets Classifier for Spoken Language Identification <br>
 					<u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li, Hisashi Kawai <br>
@@ -49,7 +45,7 @@ permalink: /publications/
         <li>					
 					Comparison of Regularization Constraints in Deep Neural Network based Speaker Adaptation <br>
 					<u><b>Peng Shen</b></u>, Xugang Lu, Hisashi Kawai <br>
-					In The 10th International Symposium on Chinese Spoken Language Processing, Oct. 2016.<br><br>
+					In The 10th International Symposium on Chinese Spoken Language Processing, Oct. 2016.<br>
 				</li>
 					
         <li>
@@ -110,8 +106,7 @@ permalink: /publications/
 					Evaluation of real-time audio-visual speech recognition<br>
 					<u><b>Peng Shen</b></u>, Satoshi Tamura and Satoru Hayamizu<br>
 					In The 9th International Conference on Auditory-Visual Speech Processing (AVSP), Hakone, Japan, pp.77-80, Oct. 2010.<br>
-				</li>
-					
+				</li>					
       </p>
 
       <h4><b>Domestic Conferences</b></h4>
@@ -145,8 +140,7 @@ permalink: /publications/
 					Investigation on nonparametric discriminant analysis for language identification<br>
 					<u><b>Peng Shen</b></u>, Xugang Lu and Hisashi Kawai<br>
 					In 2016 Spring Meeting of Acoustical Society of Japan, Mar. 2016.<br>
-        </li>
-					
+        </li>					
 					
         <li>
 					The 2014 NICT Automatic Speech Recognition System<br>
