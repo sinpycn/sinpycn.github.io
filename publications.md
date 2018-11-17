@@ -5,9 +5,9 @@ title: Publications
 permalink: /publications/
 ---
 <div class="home">
-  <h1 class="page-heading"><b>Publications</b></h1>
+  <h2 class="page-heading"><b>Publications</b></h2>
   <ul class="post-list">
-      <h4><b>Journals</b></h4>
+      <h4><b>Journals (Peer reviewed)</b></h4>
       <p>
         <li>
           Regularization of neural network model with distance metric learning for i-vector based spoken language identification <br>
