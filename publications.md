@@ -30,16 +30,38 @@ permalink: /publications/
                     
       <h4><b>International Conferences (Peer reviewed)</b></h4>
       <p>
+      
+        <li>
+        Improving very deep time-delay neural network with vertical-attention for effectively training CTC-based ASR systems <br>
+        Sheng Li, Xugang Lu, Ryoichi Takashima, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai <br>
+        In Proc. of SLT, Athens, Greece, 18-21, Dec. 2018.
+        </li>
+        <li>
+        Feature Representation of Short Utterances based on Knowledge Distillation for Spoken Language Identification<br>
+        <u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li and Hisashi Kawai <br>
+        In Proc. of Interspeech2018, India, 2-6, Sep. 2018.<br>
+        </li>
+        <li>
+        Temporal attentive pooling for acoustic event detection <br>
+        Xugang Lu, <u><b>Peng Shen</b></u>, Sheng Li, Yu Tsao and Hisashi Kawai <br>
+        in Proc. of Interspeech2018, India, 2-6, Sep. 2018.<br>
+        </li>
+        <li>
+        Improving CTC-based Acoustic Model with Very Deep Residual Time-delay Neural Networks <br>
+        Sheng Li, Xugang Lu, Ryoichi Takashima, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai <br>
+        In Proc. of Interspeech, India, 2-6, Sep. 2018.<br>
+        </li>
+      
 				<li>
 					Incremental training and construction the very deep convolutional residual network acoustic models<br>
 					Sheng Li, Xugang Lu, <u><b>Peng Shen</b></u>, Ryoichi Takashima, Tatsuya Kawahara and Hisashi Kawai<br>
-					In Proc. ASRU, Okinawa, Japan, 16-20, Dec. 2017.<br>
+					In Proc. of ASRU, Okinawa, Japan, 16-20, Dec. 2017.<br>
 				</li>					
 					
         <li>
 					Conditional Generative Adversarial Nets Classifier for Spoken Language Identification <br>
 					<u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li, Hisashi Kawai <br>
-					In Proc. Interspeech, Stochholm, Sweden, Aug. 20-24, 2017. <br>
+					In Proc. of Interspeech, Stochholm, Sweden, Aug. 20-24, 2017. <br>
 				</li>
 					
         <li>					
