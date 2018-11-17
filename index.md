@@ -1,8 +1,22 @@
 ---
-#
-# You don't need to edit this file, it's empty on purpose.
-# Edit minima's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
+title: Peng Shen
+permalink: /
 ---
+<div class="home"> 
+  <h1 class="page-title"><b>Peng Shen(沈 鵬)</b></h1>
+  <ul class="post-list">
+    <li>
+      I am a researcher at NICT, Kyoto, Japan, on automatic speech recognition, deep learning technology, spoken language identification, speaker recognition, event detection, etc.
+      I have four years full-time system development experience as a system engineer.
+    </li>
+  </ul>
+ 
+  <h1 class="page-heading"><b>Research interest</b></h1>
+  <ul class="post-list">
+    <li>
+      Automatic speech recognition, signal processing, and machine learning (deep learning) related to image processing, data analysis and natural language processing.
+    </li>
+  </ul>    
+
+</div>
