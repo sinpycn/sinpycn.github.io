@@ -1,10 +1,11 @@
 ---
 id: top.bio
 layout: page
-title: BIO
+title: Bio
 permalink: /bio/
 ---
 <div class="home">
+  <h1 class="post-title">Biography</h1>
   <h1 class="page-heading"><b>Work experiences</b></h1>
   <ul class="post-list">
     <li>
