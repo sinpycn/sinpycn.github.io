@@ -30,6 +30,11 @@ permalink: /publications/
                     
       <h4><b>International Conferences (Peer reviewed)</b></h4>
       <p>
+        <li>
+        Interactive learning of teacher-student model for short utterance spoken language identification<br>
+        <u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li and Hisashi Kawai <br>
+        In Proc. of ICASSP, May 2019.<br>
+        </li>
       
         <li>
         Improving very deep time-delay neural network with vertical-attention for effectively training CTC-based ASR systems <br>
@@ -133,6 +138,7 @@ permalink: /publications/
 
       <h4><b>Domestic Conferences</b></h4>
       <p>
+      
         <li>
 					Improving CTC-based acoustic model with very deep residual neural network<br>
 					S. Li, X. Lu, R.Takashima, <u><b>P. Shen</b></u> and H. Kawai<br>
