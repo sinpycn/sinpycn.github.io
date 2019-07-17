@@ -8,29 +8,27 @@ permalink: /publications/
   <h1 class="post-title">Publications</h1>
   <ul class="post-list">
       <h4><b>Journals (Peer reviewed)</b></h4>
-      <p>
-        <li>
-          Regularization of neural network model with distance metric learning for i-vector based spoken language identification <br>
-					Xugang Lu, <u><b>Peng Shen</b></u>, Yu Tsao, Hisashi Kawai<br>
-					In Computer Speech and Language, vol. 44, pp. 48–60, July 2017.<br>
-				</li>
-					
-        <li>
-					Combination of multiple acoustic models with unsupervised adaptation for lecture speech transcription <br>				
-					<u><b>Peng Shen</b></u>, Xugang Lu, Xinhui Hu, Naoyuki Kanda, Masahiro Saiko, Chiori Hori, Hisashi Kawai<br>
-					In Speech Communication, vol.82, pp. 1-13, Sep, 2016.<br>
-			  </li>
-        
-        <li>
-					Multi-Stream Sparse Representation Features for Noise Robust Audio-Visual Speech Recognition<br>
-					<u><b>Peng Shen</b></u>, Satoshi Tamura and Satoru Hayamizu<br>
-					In journal of Acoustical Science and Technology, vol.35, no.1, 2014.<br>
-			  </li>
-      </p>
-                    
+<p>
+<li>
+  Regularization of neural network model with distance metric learning for i-vector based spoken language identification <br>
+  Xugang Lu, <u><b>Peng Shen</b></u>, Yu Tsao, Hisashi Kawai<br>
+  In Computer Speech and Language, vol. 44, pp. 48–60, July 2017.<br>
+</li>
+<li>
+  Combination of multiple acoustic models with unsupervised adaptation for lecture speech transcription <br>				
+  <u><b>Peng Shen</b></u>, Xugang Lu, Xinhui Hu, Naoyuki Kanda, Masahiro Saiko, Chiori Hori, Hisashi Kawai<br>
+  In Speech Communication, vol.82, pp. 1-13, Sep, 2016.<br>
+</li>
+<li>
+  Multi-Stream Sparse Representation Features for Noise Robust Audio-Visual Speech Recognition<br>
+  <u><b>Peng Shen</b></u>, Satoshi Tamura and Satoru Hayamizu<br>
+  In journal of Acoustical Science and Technology, vol.35, no.1, 2014.<br>
+</li>
+</p>
+
+
       <h4><b>International Conferences (Peer reviewed)</b></h4>
-      <p>
-    
+<p>    
 <li>
 Class-wise Centroid Distance Metric Learning for Acoustic Event Detection<br>
 Xugang Lu, <u><b>Peng Shen</b></u>, Sheng Li, Yu Tsao and Hisashi Kawai <br>
@@ -157,7 +155,7 @@ In The 9th International Conference on Auditory-Visual Speech Processing (AVSP),
 </li>			
 
 
-      </p>
+</p>
 
       <h4><b>Domestic Conferences</b></h4>
       <p>
