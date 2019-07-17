@@ -30,11 +30,32 @@ permalink: /publications/
                     
       <h4><b>International Conferences (Peer reviewed)</b></h4>
       <p>
-        <li>
+    
+	    	<li>
+	    	Class-wise Centroid Distance Metric Learning for Acoustic Event Detection<br>
+    		Xugang Lu, <u><b>Peng Shen</b></u>, Sheng Li, Yu Tsao and Hisashi Kawai <br>
+    		in Proc. of Interspeech, 2019. <br>
+        </li>  
+    		<li>
+    		Investigating Radical-based End-to-End Speech Recognition Systems for Chinese Dialects and Japanese<br>
+    		Sheng Li, Xugang Lu, Chenchen Ding, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br> 
+	    	in Proc. of Interspeech, 2019.<br>
+        </li>  
+	    	<li>
+	    	End-to-End Articulatory Attribute Modeling for Low-resource Multilingual Speech Recognition<br>
+	    	Sheng Li, Chenchen Ding, Xugang Lu, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br>
+	    	in Proc. of Interspeech, 2019.<br>
+        </li>  
+	    	<li>
+		    Improving Transformer-based Speech Recognition Systems with Compressed Structure and Speech Attributes Augmentation<br>
+	    	Sheng Li, Raj Dabre, Xugang Lu, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br>
+	    	in Proc. of Interspeech, 2019.<br>
+        </li>  
+		    <li>
         Interactive learning of teacher-student model for short utterance spoken language identification<br>
         <u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li and Hisashi Kawai <br>
         In Proc. of ICASSP, May 2019.<br>
-        </li>
+        </li> 
       
         <li>
         Improving very deep time-delay neural network with vertical-attention for effectively training CTC-based ASR systems <br>
