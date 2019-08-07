@@ -10,10 +10,20 @@ permalink: /bio/
   <ul class="post-list">
     <li>
    2014-Present: Researcher at National Institute of Information and Communications Technology (NICT). <br>
-   2004-2007: Information Management Engineer at Lenovo Group, China. <br>
-   2007-2013: MA, Ph. D. in , at Electronics and Information system Engineering, Gifu University, Japan. <br>
+   2004-2007: Information Management Engineer at Lenovo Group, Beijing, China. <br>
+   2003-2004: ZCDL Co.Ltd, Beijing, China. <br>
     </li>
-  </ul>    
+  </ul>
+  
+  <h1 class="page-heading"><b>Education</b></h1>
+  <ul class="post-list">
+    <li>
+   2007-2013: MA, Ph. D. in , at Electronics and Information system Engineering, Gifu University, Japan. <br>
+   2007-2008: Research student, at Gifu University, Japan. <br>
+   1999-2003: BS in , at CS, SDAU, China. <br>
+    </li>
+  </ul>  
+  
   
 
   <h1 class="page-heading"><b>Awards & Certifications</b></h1>
