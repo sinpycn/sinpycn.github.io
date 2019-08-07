@@ -9,7 +9,7 @@ permalink: /bio/
   <h1 class="page-heading"><b>Work experiences</b></h1>
   <ul class="post-list">
     <li>
-   2014-Present: Researcher at National Institute of Information and Communications Technology (NICT). <br>
+   2014-Present: Researcher at NICT, Japan. <br>
    2004-2007: Information Management Engineer at Lenovo Group, Beijing, China. <br>
    2003-2004: ZCDL Co.Ltd, Beijing, China. <br>
     </li>
