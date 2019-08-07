@@ -9,8 +9,9 @@ permalink: /bio/
   <h1 class="page-heading"><b>Work experiences</b></h1>
   <ul class="post-list">
     <li>
-   2014-Present: Researcher at NICT, Japan. <br>
-   2004-2007: Information Management Engineer at Lenovo Group, Beijing, China. <br>
+   2014-Present: Researcher, NICT, Japan. <br>
+   2013-2014: Collaborative researcher, Gifu University, Japan. <br>
+   2004-2007: Information Management Engineer, Lenovo Group, Beijing, China. <br>
    2003-2004: ZCDL Co.Ltd, Beijing, China. <br>
     </li>
   </ul>
@@ -19,7 +20,8 @@ permalink: /bio/
   <ul class="post-list">
     <li>
    Aug. 2015: Machine learning summer school 2015 Kyoto, Japan. <br>
-   2007-2013: MA, Ph. D., in electronics and information system engineering, Gifu University, Japan. <br>
+   2010-2013: Ph.D. in electronics and information system engineering, Gifu University, Japan. <br>
+   2008-2010: MA in computer science, Gifu University, Japan. <br>
    2007-2008: Research student in Gifu University, Japan. <br>
    1999-2003: BS in computer science, SDAU, China. <br>
     </li>
