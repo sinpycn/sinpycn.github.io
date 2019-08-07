@@ -18,6 +18,7 @@ permalink: /bio/
   <h1 class="page-heading"><b>Education</b></h1>
   <ul class="post-list">
     <li>
+   Aug. 2015: Machine learning summer school 2015 Kyoto, Japan. <br>
    2007-2013: MA, Ph. D., in electronics and information system engineering, Gifu University, Japan. <br>
    2007-2008: Research student in Gifu University, Japan. <br>
    1999-2003: BS in computer science, SDAU, China. <br>
