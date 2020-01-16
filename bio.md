@@ -9,6 +9,7 @@ permalink: /bio/
   <h1 class="page-heading"><b>Work experiences</b></h1>
   <ul class="post-list">
     <li>
+   2020: Part-time Lecturer, Gifu University, Japan. <br>
    2014-Present: Researcher, NICT, Japan. <br>
    2013-2014: Collaborative researcher, Gifu University, Japan. <br>
    2004-2007: Information Management Engineer, Lenovo Group, Beijing, China. <br>
