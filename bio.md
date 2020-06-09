@@ -10,7 +10,7 @@ permalink: /bio/
   <ul class="post-list">
     <li>
    2020: Part-time Lecturer, Gifu University, Japan. <br>
-   2014-Present: Researcher, NICT, Japan. <br>
+   2014-Present: Senior Researcher, NICT, Japan. <br>
    2013-2014: Collaborative researcher, Gifu University, Japan. <br>
    2004-2007: Information Management Engineer, Lenovo Group, Beijing, China. <br>
    2003-2004: ZCDL Co.Ltd, Beijing, China. <br>
@@ -33,6 +33,7 @@ permalink: /bio/
   <h1 class="page-heading"><b>Awards & Certifications</b></h1>
   <ul class="post-list">
     <li>
+    2020.04: Won the 2nd best result on short-duration speaker verfication challenage (Interspeech2020). <br>
     2015.07: Japanese-Language Proficiency Test N1. <br>
     2015.04: NICT team award.<br>
     2014.12: Won the 1st position among the 8 international teams (IWSLT TED ASR evaluation).<br>
