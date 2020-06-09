@@ -7,8 +7,8 @@ permalink: /
   <h1 class="page-title"><b>Peng Shen(沈 鵬)</b></h1>
   <ul class="post-list">
     <li>
-      I am a researcher at NICT, Kyoto, Japan, on automatic speech recognition, deep learning technology, spoken language identification, speaker recognition, event detection, etc.
-      I have four years full-time system development experience as a system engineer.
+      I am a senior researcher at NICT, Kyoto, Japan, on automatic speech recognition, deep learning technology, spoken language identification, speaker recognition, event detection, etc.
+      I have four years of full-time system development experience as a system engineer.
     </li>
   </ul>
  
