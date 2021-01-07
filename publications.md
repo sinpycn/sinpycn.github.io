@@ -36,18 +36,18 @@ permalink: /publications/
 <p>   
 <li>
 Investigation of NICT submission for short-duration speaker verification challenge 2020<br>
-Peng Shen, Xugang Lu, and Hisashi Kawai <br>
+<u><b>Peng Shen</b></u>, Xugang Lu, and Hisashi Kawai <br>
 in Proc. of Interspeech, 2020. <br>
 </li>  
   
 <li>
 Joint Training End-to-End Speech Recognition Systems with Speaker Attributes<br>
-S. Li, X. Lu, R. Dabre, P. Shen and H. Kawai <br>
+S. Li, X. Lu, R. Dabre, <u><b>P. Shen</b></u> and H. Kawai <br>
 in Proc. ISCA-Odyssey (The Speaker and Language Recognition Workshop), 2020. <br>
 </li>  
 <li>
 Compensation on x-vector for short utterance spoken language identification<br>
-Peng Shen, Xugang Lu, Komei Sugiura, Sheng Li and Hisashi Kawai <br>
+<u><b>Peng Shen</b></u>, Xugang Lu, Komei Sugiura, Sheng Li and Hisashi Kawai <br>
 in Proc. ISCA-Odyssey (The Speaker and Language Recognition Workshop), 2020. <br>
 </li>   
   
