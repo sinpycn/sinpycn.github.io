@@ -184,17 +184,17 @@ In The 9th International Conference on Auditory-Visual Speech Processing (AVSP),
       
 <li>
 Improvement of x-vector for short utterance spoken language identification<br>
-P. Shen, X. Lu, K. Sugiura, S. Li, H. Kawai<br>
+<u><b>P. Shen</b></u>, X. Lu, K. Sugiura, S. Li, H. Kawai<br>
 in Acoustical Society of Japan, spring, 2020.<br>
 </li>
 <li>
 End-to-End Articulatory Attribute Modeling for Low-resource Multilingual Speech Recognition<br>
-S. Li, C. Ding, X. Lu, P. Shen and H. Kawai<br>
+S. Li, C. Ding, X. Lu, <u><b>P. Shen</b></u> and H. Kawai<br>
 in Acoustical Society of Japan, spring, 2020.<br>
 </li>
 <li>
 Joint Training End-to-End Systems for Speech and Speaker Recognition with Speaker Attributes<br>
-S. Li, X. Lu, R. Dabre, P. Shen and H. Kawai<br>
+S. Li, X. Lu, R. Dabre, <u><b>P. Shen</b></u> and H. Kawai<br>
 in Acoustical Society of Japan, spring, 2020.<br>
 </li>
 <li>
