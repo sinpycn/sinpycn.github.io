@@ -10,6 +10,11 @@ permalink: /publications/
       <h4><b>Journals (Peer reviewed)</b></h4>
 <p>
 <li>
+  Knowledge distillation-based representation learning for short-utterance spoken language identification <br>
+  <u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li, Hisashi Kawai<br>
+  In IEEE/ACM Trans. on Audio, Speech and Language Processing, vol. 28, pp. 2674-2683, 2020.<br>
+</li>
+<li>
   Regularization of neural network model with distance metric learning for i-vector based spoken language identification <br>
   Xugang Lu, <u><b>Peng Shen</b></u>, Yu Tsao, Hisashi Kawai<br>
   In Computer Speech and Language, vol. 44, pp. 48–60, July 2017.<br>
@@ -28,7 +33,24 @@ permalink: /publications/
 
 
       <h4><b>International Conferences (Peer reviewed)</b></h4>
-<p>    
+<p>   
+<li>
+Investigation of NICT submission for short-duration speaker verification challenge 2020<br>
+Peng Shen, Xugang Lu, and Hisashi Kawai <br>
+in Proc. of Interspeech, 2020. <br>
+</li>  
+  
+<li>
+Joint Training End-to-End Speech Recognition Systems with Speaker Attributes<br>
+S. Li, X. Lu, R. Dabre, P. Shen and H. Kawai <br>
+in Proc. ISCA-Odyssey (The Speaker and Language Recognition Workshop), 2020. <br>
+</li>  
+<li>
+Compensation on x-vector for short utterance spoken language identification<br>
+Peng Shen, Xugang Lu, Komei Sugiura, Sheng Li and Hisashi Kawai <br>
+in Proc. ISCA-Odyssey (The Speaker and Language Recognition Workshop), 2020. <br>
+</li>   
+  
 <li>
 Class-wise Centroid Distance Metric Learning for Acoustic Event Detection<br>
 Xugang Lu, <u><b>Peng Shen</b></u>, Sheng Li, Yu Tsao and Hisashi Kawai <br>
@@ -160,7 +182,21 @@ In The 9th International Conference on Auditory-Visual Speech Processing (AVSP),
       <h4><b>Domestic Conferences</b></h4>
       <p>
       
-      
+<li>
+Improvement of x-vector for short utterance spoken language identification<br>
+P. Shen, X. Lu, K. Sugiura, S. Li, H. Kawai<br>
+in Acoustical Society of Japan, spring, 2020.<br>
+</li>
+<li>
+End-to-End Articulatory Attribute Modeling for Low-resource Multilingual Speech Recognition<br>
+S. Li, C. Ding, X. Lu, P. Shen and H. Kawai<br>
+in Acoustical Society of Japan, spring, 2020.<br>
+</li>
+<li>
+Joint Training End-to-End Systems for Speech and Speaker Recognition with Speaker Attributes<br>
+S. Li, X. Lu, R. Dabre, P. Shen and H. Kawai<br>
+in Acoustical Society of Japan, spring, 2020.<br>
+</li>
 <li>
 Investigation of multi-domain training for speech recognition<br>
 <u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li and Hisashi Kawai<br>
