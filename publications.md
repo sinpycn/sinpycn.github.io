@@ -200,7 +200,18 @@ In The 9th International Conference on Auditory-Visual Speech Processing (AVSP),
 
       <h4><b>Domestic Conferences</b></h4>
       <p>
-      
+
+<li>
+A Study on Language Modeling with BERT-based Word Embedding <br>
+T. Ogura, M. Fujimoto, <u><b>P. Shen</b></u>, X. Lu, H. Kawai<br>
+in Acoustical Society of Japan, Sep, 2021. [In Japanese]<br>
+</li>
+<li>
+Unsupervised Feature Learning based on wav2vec for Cross-channel Spoken Language Identification <br>
+T. Yoshimoto, <u><b>P. Shen</b></u>, X. Lu, R. Takashima, T. Takiguchi, H. Kawai<br>
+in Acoustical Society of Japan, spring, 2021. [In Japanese] <br>
+</li>        
+        
 <li>
 Improvement of x-vector for short utterance spoken language identification<br>
 <u><b>P. Shen</b></u>, X. Lu, K. Sugiura, S. Li, H. Kawai<br>
