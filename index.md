@@ -6,14 +6,14 @@ permalink: /
 <div class="home"> 
   <h1 class="page-title"><b>Peng Shen(沈 鵬)</b></h1>
   <ul class="post-list">
-    <li> I am a senior researcher at NICT, Kyoto, Japan, working on automatic speech recognition, spoken language identification, speaker recognition, event detection, etc. 
+    <li> I am a senior researcher at NICT, Kyoto, Japan, working on automatic speech recognition, spoken language identification, speaker recognition, event detection, etc. I earned my Ph.D. degree at Gifu university in 2013. Before that I have four years full-time system development experience as a system engineer. 
     </li>
   </ul>
  
   <h1 class="page-heading"><b>Research interest</b></h1>
   <ul class="post-list">
     <li>
-      Automatic speech recognition, signal processing, and machine learning (deep learning) related to image processing, data analysis and natural language processing.
+      Multi-modal speaker recognition, automatic speech recognition, spoken language identification, event detection.
     </li>
   </ul>
   
@@ -23,18 +23,7 @@ permalink: /
       <a href="https://researchmap.jp/pengshen">Researchmap Page</a>
     </li>
   </ul>  
-  
-  <h1 class="page-heading"><b>Work experiences</b></h1>
-  <ul class="post-list">
-    <li>
-   2020: Part-time Lecturer, Gifu University, Japan. <br>
-   2014-Present: Senior Researcher (Permanent), NICT, Japan. <br>
-   2013-2014: Collaborative researcher, Gifu University, Japan. <br>
-   2004-2007: Information Management Engineer, Lenovo Group, Beijing, China. <br>
-   2003-2004: ZCDL Co.Ltd, Beijing, China. <br>
-    </li>
-  </ul>
-  
+
   <h1 class="page-heading"><b>Awards & Certifications</b></h1>
   <ul class="post-list">
     <li>
@@ -46,5 +35,18 @@ permalink: /
     2003.12: Award of excellence (ZCDL Co. Ltd.). <br>
     </li>
   </ul>   
+  
+  <h1 class="page-heading"><b>Work experiences</b></h1>
+  <ul class="post-list">
+    <li>
+   2014-Present: Senior Researcher (Permanent), NICT, Japan. <br>      
+   2020: Part-time Lecturer, Gifu University, Japan. <br>
+   2013-2014: Collaborative researcher, Gifu University, Japan. <br>
+   2004-2007: Information Management Engineer, Lenovo Group, Beijing, China. <br>
+   2003-2004: ZCDL Co.Ltd, Beijing, China. <br>
+    </li>
+  </ul>
+  
+
 
 </div>
