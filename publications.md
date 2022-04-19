@@ -10,6 +10,12 @@ permalink: /publications/
       <h4><b>Journals (Peer reviewed)</b></h4>
 <p>
 <li>
+  Coupling a generative model with a discriminative learning framework for speaker verification <br>
+  X. Lu, <u><b>P. Shen</b></u>, Y. Tsao, H. Kawai<br>
+  In IEEE/ACM Trans. on Audio, Speech and Language Processing, vol. 29, 2021.<br>
+</li>
+
+<li>
   Knowledge distillation-based representation learning for short-utterance spoken language identification <br>
   <u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li, Hisashi Kawai<br>
   In IEEE/ACM Trans. on Audio, Speech and Language Processing, vol. 28, pp. 2674-2683, 2020.<br>
@@ -32,49 +38,62 @@ permalink: /publications/
 </p>
 
 
-      <h4><b>International Conferences (Peer reviewed)</b></h4>
+<h4><b>International Conferences (Peer reviewed)</b></h4>
 <p>   
+
+  
 <li>
-Investigation of NICT submission for short-duration speaker verification challenge 2020<br>
-<u><b>Peng Shen</b></u>, Xugang Lu, and Hisashi Kawai <br>
-in Proc. of Interspeech, 2020. <br>
+  Siamese Neural Network with Joint Bayesian Model Structure for Speaker Verification<br>
+  X. Lu, <u><b>P. Shen</b></u>, Y. Tsao, H. Kawai <br>
+  in Proc. APASIPA ASC, 2021. <br>
+</li>
+<li>
+  Unsupervised neural adaptation model based on optimal transport for spoken language identification<br>
+  X. Lu, <u><b>P. Shen</b></u>, Y. Tsao, H. Kawai <br>
+  in Proc. ICASSP, 2021.<br>
 </li>  
   
 <li>
-Joint Training End-to-End Speech Recognition Systems with Speaker Attributes<br>
-S. Li, X. Lu, R. Dabre, <u><b>P. Shen</b></u> and H. Kawai <br>
-in Proc. ISCA-Odyssey (The Speaker and Language Recognition Workshop), 2020. <br>
+  Investigation of NICT submission for short-duration speaker verification challenge 2020<br>
+  <u><b>Peng Shen</b></u>, Xugang Lu, and Hisashi Kawai <br>
+  in Proc. of Interspeech, 2020. <br>
+</li>  
+  
+<li>
+  Joint Training End-to-End Speech Recognition Systems with Speaker Attributes<br>
+  S. Li, X. Lu, R. Dabre, <u><b>P. Shen</b></u> and H. Kawai <br>
+  in Proc. ISCA-Odyssey (The Speaker and Language Recognition Workshop), 2020. <br>
 </li>  
 <li>
-Compensation on x-vector for short utterance spoken language identification<br>
-<u><b>Peng Shen</b></u>, Xugang Lu, Komei Sugiura, Sheng Li and Hisashi Kawai <br>
-in Proc. ISCA-Odyssey (The Speaker and Language Recognition Workshop), 2020. <br>
+  Compensation on x-vector for short utterance spoken language identification<br>
+  <u><b>Peng Shen</b></u>, Xugang Lu, Komei Sugiura, Sheng Li and Hisashi Kawai <br>
+  in Proc. ISCA-Odyssey (The Speaker and Language Recognition Workshop), 2020. <br>
 </li>   
   
 <li>
-Class-wise Centroid Distance Metric Learning for Acoustic Event Detection<br>
-Xugang Lu, <u><b>Peng Shen</b></u>, Sheng Li, Yu Tsao and Hisashi Kawai <br>
-in Proc. of Interspeech, 2019. <br>
+  Class-wise Centroid Distance Metric Learning for Acoustic Event Detection<br>
+  Xugang Lu, <u><b>Peng Shen</b></u>, Sheng Li, Yu Tsao and Hisashi Kawai <br>
+  in Proc. of Interspeech, 2019. <br>
 </li>  
 <li>
-Investigating Radical-based End-to-End Speech Recognition Systems for Chinese Dialects and Japanese<br>
-Sheng Li, Xugang Lu, Chenchen Ding, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br> 
-in Proc. of Interspeech, 2019.<br>
+  Investigating Radical-based End-to-End Speech Recognition Systems for Chinese Dialects and Japanese<br>
+  Sheng Li, Xugang Lu, Chenchen Ding, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br> 
+  in Proc. of Interspeech, 2019.<br>
 </li>  
 <li>
-End-to-End Articulatory Attribute Modeling for Low-resource Multilingual Speech Recognition<br>
-Sheng Li, Chenchen Ding, Xugang Lu, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br>
-in Proc. of Interspeech, 2019.<br>
+  End-to-End Articulatory Attribute Modeling for Low-resource Multilingual Speech Recognition<br>
+  Sheng Li, Chenchen Ding, Xugang Lu, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br>
+  in Proc. of Interspeech, 2019.<br>
 </li>  
 <li>
-Improving Transformer-based Speech Recognition Systems with Compressed Structure and Speech Attributes Augmentation<br>
-Sheng Li, Raj Dabre, Xugang Lu, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br>
-in Proc. of Interspeech, 2019.<br>
+  Improving Transformer-based Speech Recognition Systems with Compressed Structure and Speech Attributes Augmentation<br>
+  Sheng Li, Raj Dabre, Xugang Lu, <u><b>Peng Shen</b></u>, Tatsuya Kawahara and Hisashi Kawai<br>
+  in Proc. of Interspeech, 2019.<br>
 </li>  
 <li>
-Interactive learning of teacher-student model for short utterance spoken language identification<br>
-<u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li and Hisashi Kawai <br>
-In Proc. of ICASSP, May 2019.<br>
+  Interactive learning of teacher-student model for short utterance spoken language identification<br>
+  <u><b>Peng Shen</b></u>, Xugang Lu, Sheng Li and Hisashi Kawai <br>
+  In Proc. of ICASSP, May 2019.<br>
 </li> 
 
 <li>
