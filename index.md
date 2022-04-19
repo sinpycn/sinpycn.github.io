@@ -23,6 +23,14 @@ permalink: /
       <a href="https://researchmap.jp/pengshen">Researchmap Page</a>
     </li>
   </ul>  
+  
+  <h1 class="page-heading"><b>Funding</b></h1>
+  <ul class="post-list">
+    <li>
+    2021-2023: Grant-in-Aid for Young Scientists (PI): Self-supervised graph-based representation for language and speaker detection
+    </li>
+  </ul> 
+  
 
   <h1 class="page-heading"><b>Awards & Certifications</b></h1>
   <ul class="post-list">
