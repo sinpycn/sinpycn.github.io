@@ -41,6 +41,17 @@ permalink: /publications/
 <h4><b>International Conferences (Peer reviewed)</b></h4>
 <p>   
 
+<li>
+  Pronunciation-aware unique character encoding for RNN Transducer-based Mandarin speech recognition<br>
+  <u><b>P. Shen</b></u>, X. Lu, H. Kawai <br>
+  in Proc. SLT, 2022. <br>
+</li>
+  
+<li>
+  Transducer-based language embedding for spoken language identification <br>
+  <u><b>P. Shen</b></u>, X. Lu, H. Kawai <br>
+  in Proc. Interspeech, 2022. <br>
+</li>
   
 <li>
   Siamese Neural Network with Joint Bayesian Model Structure for Speaker Verification<br>
@@ -202,6 +213,12 @@ In The 9th International Conference on Auditory-Visual Speech Processing (AVSP),
       <p>
 
 <li>
+Investigation on sub-character tokenization for RNN-Transducer <br>
+<u><b>P. Shen</b></u>, X. Lu, H. Kawai <br>
+in Autumn Meeting of Acoustical Society of Japan, 2022.<br>
+</li>       
+        
+<li>
 A Study on Language Modeling with BERT-based Word Embedding <br>
 T. Ogura, M. Fujimoto, <u><b>P. Shen</b></u>, X. Lu, H. Kawai<br>
 in Acoustical Society of Japan, Sep, 2021. [In Japanese]<br>
@@ -297,15 +314,6 @@ Development of Real-time Audio-Visual Speech Recognition System<br>
 In 2010 Spring Meeting of Acoustical Society of Japan, 1-P-27, pp.217-218, March, 2010.<br>
 </li>
 					
-      </p>
-      <h4><b>Book Translation</b></h4>
-      <p>
-        <li>
-          NIPS 2016 Tutorial: Generative Adversarial Networks. <br> 
-					&nbsp;&nbsp;<a href="https://sinpycn.github.io/category/gan-tutorial.html" target="_blank">(Translation: In Chinese)</a><br>
-					&nbsp;&nbsp;<a href="https://arxiv.org/abs/1701.00160" target="_blank">(Original English Version: arXiv:1701.00160)</a>
-
-        </li>
       </p>
    </ul> 
 </div>
