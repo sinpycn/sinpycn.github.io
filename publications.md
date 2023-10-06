@@ -42,6 +42,22 @@ permalink: /publications/
 <p>   
 
 <li>
+  Generative linguistic representation for spoken language identification <br>
+  <u><b>P. Shen</b></u>, X. Lu, H. Kawai <br>
+  in Proc. ASRU, 2023. (Accepted) <br>
+</li>
+<li>
+  Cross-modal alignment with optimal transport for CTC-based ASR <br>
+  X. Lu, <u><b>P. Shen</b></u>, Y. Tsao, H. Kawai <br>
+  in Proc. ASRU, 2023. (Accepted) <br>
+</li>
+<li>
+  Unsupervised neural adaptation model based on optimal transport for spoken language identification <br>
+  X. Lu, <u><b>P. Shen</b></u>, Y. Tsao, H. Kawai <br>
+  in Proc. ICASSP, 2022. <br>
+</li>
+
+<li>
   Pronunciation-aware unique character encoding for RNN Transducer-based Mandarin speech recognition<br>
   <u><b>P. Shen</b></u>, X. Lu, H. Kawai <br>
   in Proc. SLT, 2022. <br>
@@ -56,7 +72,7 @@ permalink: /publications/
 <li>
   Siamese Neural Network with Joint Bayesian Model Structure for Speaker Verification<br>
   X. Lu, <u><b>P. Shen</b></u>, Y. Tsao, H. Kawai <br>
-  in Proc. APASIPA ASC, 2021. <br>
+  in Proc. APSIPA ASC, 2021. <br>
 </li>
 <li>
   Unsupervised neural adaptation model based on optimal transport for spoken language identification<br>
@@ -211,6 +227,12 @@ In The 9th International Conference on Auditory-Visual Speech Processing (AVSP),
 
       <h4><b>Domestic Conferences</b></h4>
       <p>
+
+<li>
+Investigation on Multi-task Universal Speech Models <br>
+<u><b>P. Shen</b></u>, X. Lu, H. Kawai <br>
+in Autumn Meeting of Acoustical Society of Japan, 2023.<br>
+</li>   
 
 <li>
 Investigation on sub-character tokenization for RNN-Transducer <br>
